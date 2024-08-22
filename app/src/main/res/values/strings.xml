@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TodayAnnouncement</string>
+
+    <string name="hint">ServerHost</string>
+    <string name="button">접속하기</string>
+    <string name="fail_toast">수신에 실패했습니다.</string>
 </resources>
